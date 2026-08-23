@@ -2,13 +2,13 @@
 
 A highly available web application deployed in **Microsoft Azure** using a **Virtual Machine Scale Set** and **Azure Load Balancer**.
 
-## 🎯 Why I Built This
+##  Why I Built This
 
 I wanted to understand how Azure keeps applications available when traffic increases or when a server becomes unhealthy.
 
 This lab demonstrates how to build infrastructure that can **distribute traffic, monitor VM health, and automatically scale resources based on demand**.
 
-## 🏗️ Architecture
+##  Architecture
 
 ```text
 Internet
@@ -33,7 +33,7 @@ Virtual Machine Scale Set
       Autoscaling
 ```
 
-## ⚙️ What I Did
+##  What I Did
 
 1. Created an Azure Virtual Network.
 2. Deployed a Virtual Machine Scale Set.
@@ -45,7 +45,7 @@ Virtual Machine Scale Set
 8. Tested traffic distribution between VM instances.
 9. Tested automatic scale-out and scale-in behavior.
 
-## 🧠 Skills Demonstrated
+##  Skills Demonstrated
 
 * Microsoft Azure
 * Azure Virtual Machines
@@ -59,7 +59,7 @@ Virtual Machine Scale Set
 * High Availability
 * Cloud Troubleshooting
 
-## 💡 What This Lab Demonstrates
+##  What This Lab Demonstrates
 
 This project demonstrates my ability to build a **scalable and highly available cloud environment in Azure** instead of relying on a single virtual machine.
 
